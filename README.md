@@ -54,4 +54,4 @@ bookmark
 		
 [CTRL]+[ENTR] search the internet for the input.
 
-[SHFT]+[LETTER-KEY] append input with shortcut
+[SHFT]+[Letter-Key] append input with shortcut
