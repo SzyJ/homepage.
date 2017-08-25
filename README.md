@@ -8,6 +8,13 @@ The page was designed to launch common websites as
 efficiently as possible. I set it as my 'New-Tab'
 and 'Home' page. This allows me to press 
 [CTRL+T] followed by the start of the name.
+
+The configuration file can be found under JavaScript/**Config.js**.
+
+
+This is the only file you should edit before you use.
+If you have any ideas or reskins you wish to do elsewhere however,
+go for it!
 		
 # -- How it works? --
 Every key pressed, contributes to a score given to 
