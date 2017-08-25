@@ -19,7 +19,7 @@ consistant between windows and \*nix systems
 * Phone compatability. I would appreciate any info about forcing the virtual
 keyboard on smart-phones.
 
-# -- What Is it? --
+# -- What is it? --
 I hate the look of the chrome browser bookmark bar,
 so i decided to create a web-page to allow me to search
 for my bookmarks easily.
