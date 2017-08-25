@@ -14,6 +14,8 @@ Want to try it out? Its here: [homepage.](http://szymonjackiewi.cz/homepage./)
 * Re-write how keyboard input is handled making it more modular to support more 
 keyboard layouts.
 * Add middle-click functionalty to open in a new tab. (maybe [SHFT]+[ENTR])
+* Change the font to something more appropriate. This will also make the look
+consistant between windows and \*nix systems
 
 # -- What Is it? --
 I hate the look of the chrome browser bookmark bar,
