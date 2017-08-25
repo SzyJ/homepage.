@@ -6,6 +6,8 @@ worked and the code is **not finished**. It is very inefficeint!
 Also, I am not that femiliar with JavaScript so I may have used slightly innefficient
 methods of doing things. :tired_face:
 
+Want to try it out? Its here: [homepage.](http://szymonjackiewi.cz/homepage./)
+
 ## TODO list
 * Optimise search algorithm
 * Redirect to error page when error occurs allowing for use as a search engine
