@@ -13,6 +13,7 @@ Want to try it out? Its here: [homepage.](http://szymonjackiewi.cz/homepage./)
 * Redirect to error page when error occurs allowing for use as a search engine
 * Re-write how keyboard input is handled making it more modular to support more 
 keyboard layouts.
+* Add middle-click functionalty to open in a new tab. (maybe [SHFT]+[ENTR])
 
 # -- What Is it? --
 I hate the look of the chrome browser bookmark bar,
