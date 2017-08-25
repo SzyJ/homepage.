@@ -1,0 +1,109 @@
+@charset "UTF-8";
+/* Body */
+
+@font-face {
+    font-family: Lucida_Console;
+    src: url("Font/Lucida_Console.ttf");
+}
+
+body {
+    font-family: "Lucida Console";
+    background-color: #65727a;
+    margin-top: 0px;
+    margin-right: 0px;
+    margin-bottom: 0px;
+    margin-left: 0px;
+}
+
+/* Container */
+#wrapper {
+    padding-bottom: 100px;
+    max-width: 1096px;
+    min-width: 750px;
+    width: 90%;
+    margin: auto;
+    height: auto;
+    background-color: #4f585e;
+}
+
+#logo {
+    height: 500dp;
+    width: 500dp;
+    margin: auto;
+}
+
+#searchArea {
+    margin-top: 10px;
+    margin-right: 150px;
+    margin-bottom: auto;
+    margin-left: 150px;
+	border-radius: 5px;
+	background-color: rgba(255, 255, 255, .5);
+	padding-bottom: 1px;
+}
+
+#userInput {
+    white-space: pre;
+    display: block;
+    width: auto;
+    padding-top: 20px;
+    padding-right: 10px;
+    padding-bottom: 20px;
+    padding-left: 10px;
+    text-align: center;
+    vertical-align: middle;
+    text-transform: uppercase;
+    font-weight: bold;
+    letter-spacing: 2px;
+    border: 3px solid #FFFFFF;
+    transition: all 0.3s linear;
+	background-color: #4f585e;
+    border-radius: 5px;
+}
+
+#logo > img {
+	width: 500px;
+	vertical-align: middle;
+	margin-left: auto;
+	margin-right: auto;
+	display: block;
+}
+
+#searchResults {
+    list-style: none;
+    padding: 0px;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+}
+
+ul#searchResults > li {
+    text-align: center;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    color: #65727a;
+    font-weight: bold;
+}
+
+ul#searchResults > li:hover {
+    text-decoration: underline;
+    color: white;
+    cursor: pointer;
+}
+
+ul#searchResults > li.selected {
+    display: block;
+    background-color: #65727a;
+    color: white;
+    width: auto;
+    text-align: center;
+    vertical-align: middle;
+    text-transform: uppercase;
+    font-weight: bold;
+    letter-spacing: 2px;
+    margin: 0;
+    padding-bottom: 10px;
+    padding-top: 10px;
+    border: 3px solid #65727a;
+    transition: all 0.3s linear;
+}
