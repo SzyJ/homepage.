@@ -1,3 +1,17 @@
+# -- WARNING --
+This is a project I have put together quickly to see how this concept
+worked and the code is **not finished**. It is very inefficeint!
+
+
+Also, I am not that femiliar with JavaScript so I may have used slightly innefficient
+methods of doing things. :tired_face:
+
+## TODO list
+* Optimise search algorithm
+* Redirect to error page when error occurs allowing for use as a search engine
+* Re-write how keyboard input is handled making it more modular to support more 
+keyboard layouts.
+
 # -- What Is it? --
 I hate the look of the chrome browser bookmark bar,
 so i decided to create a web-page to allow me to search
