@@ -16,6 +16,8 @@ keyboard layouts.
 * Add middle-click functionalty to open in a new tab. (maybe [SHFT]+[ENTR])
 * Change the font to something more appropriate. This will also make the look
 consistant between windows and \*nix systems
+* Phone compatability. I would appreciate any info about forcing the virtual
+keyboard on smart-phones.
 
 # -- What Is it? --
 I hate the look of the chrome browser bookmark bar,
