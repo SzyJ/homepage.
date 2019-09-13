@@ -60,7 +60,7 @@ var BOOKMARKS = [
 		new Bookmark("bank", "https://retail.santander.co.uk/"),
 		new Bookmark("reddit", "https://www.reddit.com"),
 		new Bookmark("github", "https://github.com/SzyJ"),
-		new Bookmark("cmd", "http://szy.wtf"),
+		new Bookmark("cmd", "http://szy.wtf/projects/cmd"),
 	
 		//Google Services
 		new Bookmark("google", "https://www.google.co.uk/?gws_rd=ssl"),
