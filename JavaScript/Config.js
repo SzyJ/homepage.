@@ -57,10 +57,10 @@ var BOOKMARKS = [
 		new Bookmark("youtube", "https://www.youtube.com/feed/subscriptions"),
 		new Bookmark("twitch", "https://www.twitch.tv/directory/following"),
 		new Bookmark("facebook", "https://www.facebook.com"),
-		new Bookmark("bank", "https://retail.santander.co.uk/LOGSUK_NS_ENS/channel.ssobto?dse_operationName=LOGON&expired=S&errorCode=40201003"),
+		new Bookmark("bank", "https://retail.santander.co.uk/"),
 		new Bookmark("reddit", "https://www.reddit.com"),
 		new Bookmark("github", "https://github.com/SzyJ"),
-		new Bookmark("cmd", "http://szymonjackiewi.cz"),
+		new Bookmark("cmd", "http://szy.wtf"),
 	
 		//Google Services
 		new Bookmark("google", "https://www.google.co.uk/?gws_rd=ssl"),
