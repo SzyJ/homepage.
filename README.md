@@ -6,7 +6,7 @@ worked and the code is **not finished**. It is very inefficeint!
 Also, I am not that femiliar with JavaScript so I may have used slightly innefficient
 methods of doing things. :tired_face:
 
-Want to try it out? Its here: [homepage.](http://szy.wtf/projects/homepage./)
+Want to try it out? Its here: [homepage.](https://szy.wtf/projects/homepage./)
 
 ## TODO list
 * Optimise search algorithm
